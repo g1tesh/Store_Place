@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class stpl_Test_base {
 	
 	public static Properties prop;
-	public static WebDriver driver;
+	public  static WebDriver driver;
 	
 	public stpl_Test_base()
 	{
